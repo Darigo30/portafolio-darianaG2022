@@ -52,7 +52,7 @@ body::before {
   }
 }
 
-a {
+a, .lugar {
   color: #f0b9b9;
 }
 
